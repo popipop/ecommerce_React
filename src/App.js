@@ -37,7 +37,7 @@ const App = ({ context }) => (
     
     <Panier />
 
-    <StripeProvider apiKey={process.env.STRIPE_PUBLIC_KEY}>
+    <StripeProvider apiKey='pk_test_nfwIlECA6zSaSfOZaggMUsdR'>
       <div id="checkout">
         <Elements>
           <CheckoutForm prixTotal={context.state.prixTotal} />
