@@ -5,7 +5,7 @@
   "dependencies": {
     "babel-loader": "^8.0.5",
     "dotenv": "^8.1.0",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "nodemailer": "^6.0.0",
     "react": "^16.8.0-alpha.0",
     "react-dom": "^16.8.0-alpha.0",
